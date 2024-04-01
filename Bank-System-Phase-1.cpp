@@ -7,7 +7,7 @@ using namespace std;
 int main()
 {
     cout << "|<<<<WELCOME>>>>|\n" << endl;
-    Client client(101, "Mohamed1233", "password", 2000);
+    Client client(101, "Mohamed", "password", 2000);
     client.display();
     cout << "==================================\n" << endl;
 
